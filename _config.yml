@@ -11,7 +11,7 @@ title                    : "Bogdan Mazoure"
 title_separator          : "-"
 name                     : &name "Bogdan Mazoure"
 description              : &description "Graduate student at McGill University and research intern at Nuance."
-url                      : https://bmazoure.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bmazoure/bmazoure.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Bogdan Mazoure"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "me.png"
+  bio              : "Graduate student @ McGill University and research scientist intern @ Nuance."
+  location         : "Montreal, Canada."
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=NaxShlcAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "bogdan.mazoure@mail.mcgill.ca"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "bmazoure"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/bogdanmazoure/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "bogdanmazoure/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -176,11 +176,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
+    exclude: true
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
+    exclude: false
 
 
 # Defaults
