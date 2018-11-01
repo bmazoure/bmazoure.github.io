@@ -10,7 +10,9 @@ author_profile: true
 
 
 {% include base_path %}
-
+* Doan, T.; Monteiro, J.; Albuquerque, I.; **Mazoure, B.**; Durand, A.; Hjelm, R D.; Pineau, J.; On-line Adaptative Curriculum Learning for GANs. AAAI, 2019.
+* **Mazoure, B.**\*; Doan, T.\*; Ray, S. EmojiGAN: learning emojis distributions with a generative model. *EMNLP Workshop*, 2018.
+* **Mazoure, B.**\*; Doan, T.\*; Lyle, C. GAN Q-learning. *arXiv*, 2018.
 * **Mazoure, B.**; Caraus, I.; Nadon, R.; Makarenkov, V. Identification and correction of additive and multiplicative spatial biases in experimental high-throughput screening. *SLAS Discovery*,2017.
 * **Mazoure, B.**; Islam, R. α-Divergences in Variational Dropout. *arXiv*, 2017.
 * **Mazoure, B.**; Nadon, R.; Makarenkov, V. Identification and correction of spatial bias are essential for obtaining quality data in high-throughput screening technologies. *Nature Scientific Reports*, 2017.
