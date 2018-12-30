@@ -10,9 +10,9 @@ redirect_from:
 
 # About me
 
-Currently pursuing Master's in Statistics at McGill University under the supervision of Prof. [Johanna Neslehova](http://www.math.mcgill.ca/neslehova/). My thesis focuses on reconstructing graphical models from discrete data with variational auto-encoders and multiarmed bandits. 
+I have completed my Master's in Statistics at McGill University under the supervision of Prof. [Johanna Neslehova](http://www.math.mcgill.ca/neslehova/). My thesis focuses on reconstructing graphical models from discrete data with variational inference and multiarmed bandits. 
 
-I am also a research scientist at Nuance during the summer of 2018 where I collaborate with Dr. [Atta Norouzian](https://scholar.google.ca/citations?user=KRPMXqYAAAAJ&hl=en). My work there focuses on modeling acoustic signals such as speech with deep neural architectures.
+I was also a research intern at Nuance during the summer of 2018 where I collaborated with Dr. [Atta Norouzian](https://scholar.google.ca/citations?user=KRPMXqYAAAAJ&hl=en). My work there focused on modeling acoustic signals such as speech with deep neural architectures.
 
 Previously, I obtained a Bachelor's in Computer Science and Statistics in 2017 from McGill University.
 
@@ -30,4 +30,4 @@ Previously, I obtained a Bachelor's in Computer Science and Statistics in 2017 f
 
 * Generative models (auto-encoding variational Bayes and generative nets);
 
-* Dependence modeling for discrete marginals (in connection to Master's thesis).
+* Dependence modeling for discrete marginals.
