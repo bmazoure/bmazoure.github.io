@@ -10,6 +10,7 @@ author_profile: true
 
 
 {% include base_path %}
+* Norouzian, A.; **Mazoure, B.**; Conolly, D.; Willett, D.; Exploring attention mechanism for acoustic-based classification of speech utterances into system-directed and non-system-directed. ICASSP, 2019.
 * Doan, T.; Monteiro, J.; Albuquerque, I.; **Mazoure, B.**; Durand, A.; Hjelm, R D.; Pineau, J.; On-line Adaptative Curriculum Learning for GANs. AAAI, 2019.
 * **Mazoure, B.**\*; Doan, T.\*; Ray, S. EmojiGAN: learning emojis distributions with a generative model. *EMNLP Workshop*, 2018.
 * **Mazoure, B.**\*; Doan, T.\*; Lyle, C. GAN Q-learning. *arXiv*, 2018.
