@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bogdan Mazoure"
 title_separator          : "-"
 name                     : &name "Bogdan Mazoure"
-description              : &description "Graduate student at McGill University and research intern at Nuance."
+description              : &description "Graduate student at McGill University and research intern at Microsoft Research."
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bmazoure/bmazoure.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Bogdan Mazoure"
   avatar           : "me.jpg"
-  bio              : "Graduate student @ McGill University and research scientist intern @ Nuance."
+  bio              : "Graduate student @ McGill University and research intern @ Microsoft Research."
   location         : "Montreal, Canada."
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=NaxShlcAAAAJ&hl=en&oi=ao"
