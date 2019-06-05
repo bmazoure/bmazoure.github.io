@@ -10,8 +10,11 @@ author_profile: true
 
 
 {% include base_path %}
+* **Mazoure, B.**\*; Doan, T.\*; Durand, A.; Hjelm, R D.; Pineau, J. Leveraging exploration in off-policy algorithms via normalizing flows. *arXiv*, 2019.
+* Wang, J.; **Mazoure, B.**; McCracken, G.; Venuto, D.; Durand, A. PAC-Bayesian Analysis of Counterfactual Risk in Stochastic Contextual Bandits. RLDM, 2019.
 * Norouzian, A.; **Mazoure, B.**; Conolly, D.; Willett, D.; Exploring attention mechanism for acoustic-based classification of speech utterances into system-directed and non-system-directed. ICASSP, 2019.
-* Doan, T.; Monteiro, J.; Albuquerque, I.; **Mazoure, B.**; Durand, A.; Hjelm, R D.; Pineau, J.; On-line Adaptative Curriculum Learning for GANs. AAAI, 2019.
+* Doan, T.; Monteiro, J.; Albuquerque, I.; **Mazoure, B.**; Durand, A.; Hjelm, R D.; Pineau, J. On-line Adaptative Curriculum Learning for GANs. AAAI, 2019.
+* Tahiri, N.; **Mazoure, B.**; Makarenkov, V. An intelligent shopping list based on partitioning and machine learning algorithms. *NIPS Workshop*, 2018.
 * **Mazoure, B.**\*; Doan, T.\*; Ray, S. EmojiGAN: learning emojis distributions with a generative model. *EMNLP Workshop*, 2018.
 * **Mazoure, B.**\*; Doan, T.\*; Lyle, C. GAN Q-learning. *arXiv*, 2018.
 * **Mazoure, B.**; Caraus, I.; Nadon, R.; Makarenkov, V. Identification and correction of additive and multiplicative spatial biases in experimental high-throughput screening. *SLAS Discovery*,2017.
