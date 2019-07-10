@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bogdan Mazoure - Math & Stats graduate student @ McGill University"
+title: "Bogdan Mazoure - PhD student @ MILA (McGill University)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
