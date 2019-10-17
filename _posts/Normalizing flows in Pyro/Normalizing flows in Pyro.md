@@ -1,14 +1,3 @@
----
-title: 'Normalizing flows in Pyro (PyTorch)'
-date: 2019-10-16
-permalink: /posts/2019/10/nf_in_pyro/
-tags:
-  - Normalizing flow
-  - Pyro
-  - PyTorch
-  - variational inference
----
-
 # Normalizing flows in Pyro
 
 We want to approximate some target density $p(\mathbf{x},\mathbf{z})$ with an approximate distribution $q$. To do so,
@@ -20,7 +9,7 @@ which defines a variational distribution $q(\mathbf{z}\lvert\mathbf{x})$.
 
 The optimization problem consists in finding the optimal $f_1,..,f_N$ such as to maximize the ELBO:
 $$
-\mathcal{L}=\mathbb{E}_{\varepsilon}[p(\mathbf{x},\mathbf{z})-q(\mathbf{z}\lvert\mathbf{x})]
+\mathcal{L}=\mathbb{E}_{\varepsilon}[p(\mathbf{x},\mathbf{z})-q(\mathbf{z}|\mathbf{x})]
 $$
 
 Here, we assume that $p(\mathbf{x},\mathbf{z})$ is exactly known as `p_z`, which gets passed as an argument to both the model and the guide. It is used to score samples from $q(\mathbf{z}\lvert\mathbf{x})$.
@@ -198,7 +187,7 @@ plt.show()
 ```
 
 
-![png](/files/nf_in_pyro/output_6_0.png)
+![png](output_6_0.png)
 
 
 Now that the model is built, we can define a target density to fit. For example, a mixture of Gaussians defined by:
@@ -256,10 +245,10 @@ plot_density(lambda z:p_z().log_prob(z).exp())
 ```
 
 
-![png](/files/nf_in_pyro/output_8_0.png)
+![png](output_8_0.png)
 
 
-Now that both $q(\mathbf{z}\lvert\mathbf{x})$ and $p(\mathbf{x},\mathbf{z})$ are defined, we can start training the guide wrt to it's NF parameters.
+Now that both $q(\mathbf{z}|\mathbf{x})$ and $p(\mathbf{x},\mathbf{z})$ are defined, we can start training the guide wrt to it's NF parameters.
 
 
 ```python
@@ -302,7 +291,7 @@ for step in range(n_steps):
     151.59783935546875
 
 
-After training, we can once again visualize the samples from the (now trained) guide $q(\mathbf{z}\lvert\mathbf{x})$
+After training, we can once again visualize the samples from the (now trained) guide $q(\mathbf{z}|\mathbf{x})$
 
 
 ```python
@@ -313,7 +302,7 @@ plt.show()
 ```
 
 
-![png](/files/nf_in_pyro/output_12_0.png)
+![png](output_12_0.png)
 
 
 We can also visualize the outputs of intermediate flows $f_1,...,f_{N-1}$
@@ -330,19 +319,19 @@ for f in range(n_flows+1):
 ```
 
 
-![png](/files/nf_in_pyro/output_14_0.png)
+![png](output_14_0.png)
 
 
 
-![png](/files/nf_in_pyro/output_14_1.png)
+![png](output_14_1.png)
 
 
 
-![png](/files/nf_in_pyro/output_14_2.png)
+![png](output_14_2.png)
 
 
 
-![png](/files/nf_in_pyro/output_14_3.png)
+![png](output_14_3.png)
 
 
 # Applications
@@ -351,7 +340,3 @@ NFs (or more generally, invertible neural networks) have been used in:
 - Generative models with $1\times1$ invertible convolutions [Link to paper](https://arxiv.org/abs/1807.03039)
 - Reinforcement learning, to improve upon the (not always optimal) Gaussian policy [Link to paper](https://arxiv.org/abs/1905.06893)
 - Simulating attraction-repulsion forces in actor-critic [Link to paper](https://arxiv.org/abs/1909.07543)
-
-
-
-------
