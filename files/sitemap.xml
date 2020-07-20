@@ -1,147 +1,159 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://bmazoure.github.io/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/publications/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/teaching/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/blog-posts/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/files/thesis_Msc_2018.pdf</loc>
-  <lastmod>2020-04-03T16:51:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/sitemap/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/files/rldm_2019_contextual_bandits.pdf</loc>
-  <lastmod>2020-04-03T16:51:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/posts/nf-in-pyro/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/posts/intro-to-comet/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/404.html</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/archive-layout-with-content/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/categories/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/collection-archive/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/cv/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/markdown/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/non-menu-page/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/page-archive/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/portfolio/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/tags/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/talkmap.html</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/talks/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/terms/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/markdown_generator/</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/robots.txt</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/teaching/2014-spring-teaching-1</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/teaching/2015-spring-teaching-1</loc>
-  <lastmod>2020-04-03T16:51:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bmazoure.github.io/talkmap/map.html</loc>
-  <lastmod>2020-04-03T16:51:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bmazoure.github.io/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/publications/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/teaching/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/blog-posts/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/sitemap/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/feed.xml</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/posts/nf-in-pyro/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/posts/intro-to-comet/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/posts/deep-rl-infomax-learning/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/404.html</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/categories/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/archive-layout-with-content/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/collection-archive/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/cv/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/non-menu-page/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/markdown/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/page-archive/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/portfolio/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/tags/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/talkmap.html</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/talks/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/terms/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/markdown_generator/</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/robots.txt</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/teaching/2014-spring-teaching-1</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bmazoure.github.io/teaching/2015-spring-teaching-1</loc>
+    <lastmod>2020-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
