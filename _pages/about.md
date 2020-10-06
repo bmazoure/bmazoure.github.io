@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+# News
+
+* September 2020: Our paper **Deep Reinforcement and InfoMax Learning** [[arxiv](https://arxiv.org/abs/2006.07217)][[blog](https://bmazoure.github.io/posts/deep-rl-infomax-learning/)] is accepted to NeurIPS 2020 as a poster.
+
 # About me
 
 I am currently a PhD student at the Montreal Institute for Learning Algorithms (MILA) and McGill University, co-supervised by [Devon Hjelm](https://scholar.google.ca/citations?user=68c5HfwAAAAJ&hl=en) and [Doina Precup](https://scholar.google.ca/citations?user=j54VcVEAAAAJ&hl=en). My research interests include deep reinforcement learning, probabilistic modeling, variational inference and representation learning.
