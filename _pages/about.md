@@ -10,7 +10,7 @@ redirect_from:
 
 # News
 
-* <img src="/files/driml/fig7-model-01.png" alt="preview" width="200"/> Our paper **Deep Reinforcement and InfoMax Learning** [[arxiv](https://arxiv.org/abs/2006.07217)][[blog](https://bmazoure.github.io/posts/deep-rl-infomax-learning/)] is accepted to NeurIPS 2020 as a poster.
+* <img src="/files/driml/fig7-model-01.png" alt="preview" width="200"/> Our paper **Deep Reinforcement and InfoMax Learning** [[arxiv](https://arxiv.org/abs/2006.07217)][[blog](https://bmazoure.github.io/posts/deep-rl-infomax-learning/)] [poster](/files/driml/DRIML_poster_(NeurIPS2020).pdf) is accepted to NeurIPS 2020 as a poster.
 
 # About me
 
