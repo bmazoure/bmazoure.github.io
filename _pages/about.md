@@ -11,7 +11,7 @@ redirect_from:
 # News
 
 
-* <img src="/files/driml/fig7-model-01.png" alt="preview" width="200"/>  <b>DRIML</b> is accepted to NeurIPS 2020. <a href="https://arxiv.org/abs/2006.07217">[Arxiv]</a> <a href="https://bmazoure.github.io/posts/deep-rl-infomax-learning/">[Blog]</a> <a href="/files/driml/DRIML_poster_(NeurIPS2020).pdf)">[Poster]</a> . 
+* <img src="/files/driml/fig7-model-01.png" alt="preview" width="200"/>  <b>DRIML</b> is accepted to NeurIPS 2020. <a href="https://arxiv.org/abs/2006.07217">[Arxiv]</a> <a href="https://bmazoure.github.io/posts/deep-rl-infomax-learning/">[Blog]</a> <a href="/files/driml/DRIML_poster_(NeurIPS2020).pdf">[Poster]</a> . 
 
 
 # About me
