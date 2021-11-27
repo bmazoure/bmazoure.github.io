@@ -18,8 +18,8 @@ redirect_from:
 
 I am currently a PhD student at the Montreal Institute for Learning Algorithms (MILA) and McGill University, co-supervised by [Devon Hjelm](https://scholar.google.ca/citations?user=68c5HfwAAAAJ&hl=en) and [Doina Precup](https://scholar.google.ca/citations?user=j54VcVEAAAAJ&hl=en). My research interests include deep reinforcement learning, probabilistic modeling, variational inference and representation learning.
 
-Currently, I am part-time at Microsoft Research, working on counterfactual evaluation in contextual bandits.
-I was a research intern at Microsoft Research, New York in the reinforcement learning team during Summer 2020. Previously, I was a research intern at Microsoft Research Montreal in the reinforcement learning team during Summer 2019. I was also a research intern at Nuance during the summer of 2018 where I collaborated with [Atta Norouzian](https://scholar.google.ca/citations?user=KRPMXqYAAAAJ&hl=en). My work there focused on modeling acoustic signals such as speech with deep neural architectures.
+In the summer of 2021, I was interning in the Robotics team at Google Brain, with [Jonathan Tompson](https://jonathantompson.github.io/) and [Ofir Nachum](https://research.google/people/105364/), working on using self-supervised learning to improve generalization capabilities of offline RL agents.
+I was a research intern at Microsoft Research, New York in the reinforcement learning team during summer 2020, working on counterfactual evaluation in contextual bandits. Previously, I was a research intern at Microsoft Research Montreal in the reinforcement learning team during summer 2019. I was also a research intern at Nuance during the summer of 2018 where I collaborated with [Atta Norouzian](https://scholar.google.ca/citations?user=KRPMXqYAAAAJ&hl=en). My work there focused on modeling acoustic signals such as speech with deep neural architectures.
 
 I have completed my Master's in Statistics at McGill University under the supervision of [Johanna Neslehova](http://www.math.mcgill.ca/neslehova/). My thesis focused on reconstructing graphical models from discrete data with variational inference and multiarmed bandits. It can be found here: [link](https://bmazoure.github.io/files/thesis_Msc_2018.pdf). Before that, I obtained a Bachelor's in Computer Science and Statistics in 2017 from McGill University.
 
@@ -38,7 +38,9 @@ I have completed my Master's in Statistics at McGill University under the superv
 * Generative models and density estimation.
 
 # Work
-* **Research intern** (Now, part-time)
+* **Research intern* (Summer 2021)
+  *Google Brain*
+* **Researcher** (part-time)
   *Microsoft Research*
 * **Research intern** (Summer 2020)
   *Microsoft Research (NYC)*
