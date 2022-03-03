@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bogdan Mazoure - PhD student at MILA / McGill University"
+title: "Bogdan Mazoure - PhD student at MILA / McGill University, student researcher at Google Brain"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -48,7 +48,7 @@ I have completed my Master's in Statistics at McGill University under the superv
 # Work
 * **Student Researcher** (Now)
   *Google Brain*
-* **Research intern* (Summer 2021)
+* *Research intern* (Summer 2021)
   *Google Brain*
 * **Researcher** (2020-2021)
   *Microsoft Research*
