@@ -10,6 +10,7 @@ redirect_from:
 
 # News
 
+* Our generalization quantification toolbox (jointly with Microsoft Research) is out. <a href="https://github.com/microsoft/segar">[Link]</a>.
 * <b>CTRL</b> is accepted to ICLR 2022 as poster. <a href="https://arxiv.org/abs/2106.02193">[Paper]</a>.
 * I am teaching the <i>COMP 424: Artificial Intelligence</i> class at McGill University during the Winter 2022 term. <a href="https://www.mcgill.ca/study/2021-2022/courses/comp-424">[Link]</a>. 
 * <b>GSF</b> is accepted to NeurIPS 2021 Offline RL workshop as poster. <a href="https://arxiv.org/abs/2111.14629">[Paper]</a>.
