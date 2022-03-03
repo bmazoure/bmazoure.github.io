@@ -48,7 +48,7 @@ I have completed my Master's in Statistics at McGill University under the superv
 # Work
 * **Student Researcher** (Now)
   *Google Brain*
-* *Research intern* (Summer 2021)
+* **Research intern** (Summer 2021)
   *Google Brain*
 * **Researcher** (2020-2021)
   *Microsoft Research*
