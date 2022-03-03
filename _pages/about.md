@@ -10,11 +10,14 @@ redirect_from:
 
 # News
 
-* <b>CTRL</b> is accepted to ICLR 2022 as poster. <a href="https://arxiv.org/abs/2106.02193">[Arxiv]</a>.
+* <b>CTRL</b> is accepted to ICLR 2022 as poster. <a href="https://arxiv.org/abs/2106.02193">[Paper]</a>.
 * I am teaching the <i>COMP 424: Artificial Intelligence</i> class at McGill University during the Winter 2022 term. <a href="https://www.mcgill.ca/study/2021-2022/courses/comp-424">[Link]</a>. 
-* <b>GSF</b> is accepted to NeurIPS 2021 Offline RL workshop as poster. <a href="https://arxiv.org/abs/2111.14629">[Arxiv]</a>.
+* <b>GSF</b> is accepted to NeurIPS 2021 Offline RL workshop as poster. <a href="https://arxiv.org/abs/2111.14629">[Paper]</a>.
 * I am teaching the <i>BINF 7105: Méthodes statistiques en bioinformatique</i> class at UQAM University during the Fall 2021 term. <a href="http://info.uqam.ca/plan_cours/Automne%202021/BIF7105.html">[Link]</a>. 
-* <b>DRIML</b> is accepted to NeurIPS 2020 as poster. <a href="https://arxiv.org/abs/2006.07217">[Arxiv]</a> <a href="https://bmazoure.github.io/posts/deep-rl-infomax-learning/">[Blog]</a> <a href="/files/driml/DRIML_poster_(NeurIPS2020).pdf">[Poster]</a> . 
+* Our COVID-19 phylogenetic analysis is accepted to <i>BMC Ecology and Evolution<i>. <a href="https://link.springer.com/article/10.1186/s12862-020-01732-2">[Paper]</a>.
+* <b>NTK-CL</b> is accepted to AISTATS 2021 as a poster. <a href="https://proceedings.mlr.press/v130/doan21a.html">[Paper]</a><a href="https://www.youtube.com/watch?v=iUlOxliPqfE">[Talk]</a>.
+* <b>DRIML</b> is accepted to NeurIPS 2020 as poster. <a href="https://arxiv.org/abs/2006.07217">[Paper]</a> <a href="https://bmazoure.github.io/posts/deep-rl-infomax-learning/">[Blog]</a> <a href="/files/driml/DRIML_poster_(NeurIPS2020).pdf">[Poster]</a>.
+* <b>UQF</b> is accepted to AISTATS 2020 as a poster. <a href="https://proceedings.mlr.press/v108/li20h.html">[Paper]</a><a href="https://aistats2020.org/poster_922.html">[Poster]</a>.
 
 
 # About me
