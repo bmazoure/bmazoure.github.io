@@ -10,6 +10,8 @@ redirect_from:
 
 # News
 
+* <b>Sequential Density Estimation via Nonlinear Continuous Weighted Finite Automata</b> is accepted to LearnAut 2022 <a href="/files/learnaut_2022_Sequential_Density_Estimation_via_Nonlinear_Continuous_Weighted_Finite_Automata.pdf">[Paper]</a>.
+* <b>Short-Horizon Policy Iteration</b> (jointly with Microsoft Research) is accepted to ECML-PKDD 2022. <a href="https://arxiv.org/abs/2106.00589">[Paper]</a>.
 * Our generalization quantification toolbox (jointly with Microsoft Research) is out. <a href="https://github.com/microsoft/segar">[Link]</a>.
 * <b>CTRL</b> is accepted to ICLR 2022 as poster. <a href="https://arxiv.org/abs/2106.02193">[Paper]</a>.
 * I am teaching the <i>COMP 424: Artificial Intelligence</i> class at McGill University during the Winter 2022 term. <a href="https://www.mcgill.ca/study/2021-2022/courses/comp-424">[Link]</a>. 
