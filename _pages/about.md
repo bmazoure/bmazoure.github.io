@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # News
-
+* <b>Low-Rank Representation of Reinforcement Learning Policies</b> is accepted to JAIR <a href="https://arxiv.org/abs/2002.02863">[Paper]</a>.
 * <b>Sequential Density Estimation via Nonlinear Continuous Weighted Finite Automata</b> is accepted to LearnAut 2022 <a href="/files/learnaut_2022_Sequential_Density_Estimation_via_Nonlinear_Continuous_Weighted_Finite_Automata.pdf">[Paper]</a>.
 * <b>Short-Horizon Policy Iteration</b> (jointly with Microsoft Research) is accepted to ECML-PKDD 2022. <a href="https://arxiv.org/abs/2106.00589">[Paper]</a>.
 * Our generalization quantification toolbox (jointly with Microsoft Research) is out. <a href="https://github.com/microsoft/segar">[Link]</a>.
