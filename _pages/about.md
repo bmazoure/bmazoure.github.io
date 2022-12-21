@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bogdan Mazoure - PhD student at MILA / McGill University, research intern at DeepMind"
+title: "Bogdan Mazoure - Research Scientist at Apple MLR"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 # News
+* I started at the MLR team at Apple as a Research Scientist.
+* <b>CVL</b> is accepted to NeurIPS 2022 Deep RL workshop <a href="https://arxiv.org/abs/2211.02100">.
 * <b>GSF</b> is accepted to NeurIPS 2022 as a poster <a href="https://arxiv.org/abs/2111.14629">[Paper]</a>.
 * <b>Low-Rank Representation of Reinforcement Learning Policies</b> is accepted to JAIR <a href="https://arxiv.org/abs/2002.02863">[Paper]</a>.
 * <b>Sequential Density Estimation via Nonlinear Continuous Weighted Finite Automata</b> is accepted to LearnAut 2022 <a href="/files/learnaut_2022_Sequential_Density_Estimation_via_Nonlinear_Continuous_Weighted_Finite_Automata.pdf">[Paper]</a>.
@@ -26,9 +28,11 @@ redirect_from:
 
 # About me
 
-I am currently a PhD student at the Montreal Institute for Learning Algorithms (MILA) and McGill University, co-supervised by [Devon Hjelm](https://scholar.google.ca/citations?user=68c5HfwAAAAJ&hl=en) and [Doina Precup](https://scholar.google.ca/citations?user=j54VcVEAAAAJ&hl=en). My research interests include deep reinforcement learning, probabilistic modeling, variational inference and representation learning.
+I am currently a Research Scientist at the Machine Learning Research team at Apple, working with Josh Susskind, Walter Talbott and Devon Hjelm on fundamental problems of representation learning for sequential decision making tasks.
 
-I am currently a research intern at DeepMind, working with Ankit Anand, Jake Bruce and Rob Fergus on unsupervised pre-training of state representations for efficient RL finetuning.
+I recently defended my PhD at the Montreal Institute for Learning Algorithms (MILA) and McGill University, co-supervised by [Devon Hjelm](https://scholar.google.ca/citations?user=68c5HfwAAAAJ&hl=en) and [Doina Precup](https://scholar.google.ca/citations?user=j54VcVEAAAAJ&hl=en). My research interests include deep reinforcement learning, probabilistic modeling, variational inference and representation learning.
+
+I also was a research intern at DeepMind, working with Ankit Anand, Jake Bruce and Rob Fergus on unsupervised pre-training of state representations for efficient RL finetuning.
 
 In the summer of 2021, I was interning in the Robotics team at Google Brain, with [Jonathan Tompson](https://jonathantompson.github.io/) and [Ofir Nachum](https://research.google/people/105364/), working on using self-supervised learning to improve generalization capabilities of offline RL agents.
 I was a research intern at Microsoft Research, New York in the reinforcement learning team during summer 2020, working on counterfactual evaluation in contextual bandits. Previously, I was a research intern at Microsoft Research Montreal in the reinforcement learning team during summer 2019. I was also a research intern at Nuance during the summer of 2018 where I collaborated with [Atta Norouzian](https://scholar.google.ca/citations?user=KRPMXqYAAAAJ&hl=en). My work there focused on modeling acoustic signals such as speech with deep neural architectures.
