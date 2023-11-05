@@ -12,7 +12,7 @@ I am taking interns, as well as students to be co-advised with faculty members.
 
 # News
 * <b>CVL</b> is accepted to CoRL 2023 as a poster <a href="https://openreview.net/forum?id=oqOfLP6bJy">[Paper]</a>.
-* <b>Accelerating exploration and representation learning with offline pre-training</b> is accepted to ICML 2023 as a workshop poster <h href="https://arxiv.org/abs/2304.00046">[Paper]</a>.
+* <b>Accelerating exploration and representation learning with offline pre-training</b> is accepted to ICML 2023 as a workshop poster <a href="https://arxiv.org/abs/2304.00046">[Paper]</a>.
 * <b>Learning About Progress From Experts</b> is accepted to ICLR 2023 as a spotlight (top 25%) <a href="https://openreview.net/pdf?id=sKc6fgce1zs">[Paper]</a>.
 * I started at the MLR team at Apple as a Research Scientist.
 * <b>CVL</b> is accepted to NeurIPS 2022 Deep RL workshop <a href="https://arxiv.org/abs/2211.02100">[Paper]</a>.
