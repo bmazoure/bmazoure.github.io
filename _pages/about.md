@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am taking interns, as well as students to be co-advised with faculty members.
+I am taking students to be co-advised with faculty members.
 
 # News
 * <b>CVL</b> is accepted to CoRL 2023 as a poster <a href="https://openreview.net/forum?id=oqOfLP6bJy">[Paper]</a>.
