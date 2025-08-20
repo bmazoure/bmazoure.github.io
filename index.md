@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-**I am taking students to be co-advised with Mila faculty members for 2025.**
+**I am taking students to be co-advised with Mila faculty members for 2025-2026.**
 **If you are interested, reach out over e-mail with a research problem and list of 3 suggested faculty members.**
 
 I am currently a Research Scientist at the Interactive & Embodied group within the Machine Learning Research team at Apple, working with Alex Toshev on solving fundamental sequential decision making problems using large generative models.
@@ -20,11 +20,20 @@ I defended my PhD at the Montreal Institute for Learning Algorithms (Mila) and M
 
 ## Education
 
-🎓 **PhD in Computer Science** (2019-2022)
+- **PhD in Computer Science** (2019-2022)
   *McGill University / Mila*
 
-🎓 **MSc in Math & Stats** (2017-2018)
+- **MSc in Math & Stats** (2017-2018)
   *McGill University*
 
-🎓 **BSc in Stats & Computer Science** (2014-2017)
+- **BSc in Stats & Computer Science** (2014-2017)
   *McGill University*
+
+## Past Interns
+
+  - [Riashat Islam](https://riashat.github.io) (now at Microsoft Research)
+  - [Max Schwarzer](https://www.maxschwarzer.com) (now at OpenAI)
+  - [Andrew Szot](https://www.andrewszot.com) (now at Apple Machine Learning Research)
+  - [Martin Klissarov](https://mklissa.github.io) (now at Google DeepMind)
+  - [Ram Ramrakhya](https://ram81.github.io) (now PhD student at GeorgiaTech)
+  - [Silvia Sapora](https://www.stats.ox.ac.uk/people/silvia-sapora) (now DPhil student at Oxford)
