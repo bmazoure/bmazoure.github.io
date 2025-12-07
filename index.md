@@ -7,7 +7,9 @@ layout: homepage
 **I am taking students to be co-advised with Mila faculty members for 2025-2026.**
 **If you are interested, reach out over e-mail with a research problem and list of 3 suggested faculty members.**
 
-I am currently a Research Scientist at the Interactive & Embodied group within the Machine Learning Research team at Apple, working with Alex Toshev on solving fundamental sequential decision making problems using large generative models.
+I am currently a Research Scientist in the Frontier AI unit at Google DeepMind in Montreal, Canada.
+
+Previously, I spent time at the Interactive & Embodied group within the Machine Learning Research team at Apple, working with Alex Toshev on solving fundamental sequential decision making problems using large generative models.
 
 I defended my PhD at the Montreal Institute for Learning Algorithms (Mila) and McGill University in December 2022, co-supervised by [Devon Hjelm](https://scholar.google.ca/citations?user=68c5HfwAAAAJ&hl=en) and [Doina Precup](https://scholar.google.ca/citations?user=j54VcVEAAAAJ&hl=en).
 
@@ -15,8 +17,13 @@ I defended my PhD at the Montreal Institute for Learning Algorithms (Mila) and M
 ## Research Interests
 
 - **Reinforcement learning:** exploration, representation learning, generalization.
-- **Generative Models::** large language models, diffusion models and applications to reinforcement learning.
+- **Generative Models::** large language models, diffusion models and applications to control.
 
+## Work
+
+- **Google DeepMind** (2025-now)
+
+- **Apple Machine Learning Research** (2022-2025)
 
 ## Education
 
