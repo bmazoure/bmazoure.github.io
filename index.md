@@ -20,17 +20,14 @@ Previously, I spent time at the Interactive & Embodied group within the Machine 
 ## Work
 
 - **Google DeepMind** (2025-now)
-
 - **Apple Machine Learning Research** (2022-2025)
 
 ## Education
 
 - **PhD in Computer Science** (2019-2022)
   *McGill University / Mila*
-
 - **MSc in Math & Stats** (2017-2018)
   *McGill University*
-
 - **BSc in Stats & Computer Science** (2014-2017)
   *McGill University*
 
