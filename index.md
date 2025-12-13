@@ -9,9 +9,7 @@ layout: homepage
 
 I am currently a Research Scientist in the Frontier AI unit at Google DeepMind in Montreal, Canada.
 
-Previously, I spent time at the Interactive & Embodied group within the Machine Learning Research team at Apple, working with Alex Toshev on solving fundamental sequential decision making problems using large generative models.
-
-I defended my PhD at the Montreal Institute for Learning Algorithms (Mila) and McGill University in December 2022, co-supervised by [Devon Hjelm](https://scholar.google.ca/citations?user=68c5HfwAAAAJ&hl=en) and [Doina Precup](https://scholar.google.ca/citations?user=j54VcVEAAAAJ&hl=en).
+Previously, I spent time at the Interactive & Embodied group within the Machine Learning Research team at Apple solving fundamental sequential decision making problems.
 
 
 ## Research Interests
