@@ -83,7 +83,7 @@
       text-align: center;
       margin-top: 48px;
       padding: 24px 12px;
-      color: #666;
+      color: #595959;
       width: 100%;
       box-sizing: border-box;
       position: relative;
@@ -91,6 +91,16 @@
     }
     footer small {
       font-size: 12px;
+      color: #595959;
+    }
+    @media (prefers-color-scheme: dark) {
+      footer {
+        color: #dadbdf;
+      }
+      footer small {
+        color: #dadbdf;
+        opacity: 0.7;
+      }
     }
   </style>
 </head>
