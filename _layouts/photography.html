@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Photography</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.7.2/css/lightgallery.min.css">
+  <link rel="stylesheet" href="./../assets/css/font.css">
+  <link rel="stylesheet" href="./../assets/css/style.css">
+  <style>
+    body { font-family: sans-serif; }
+    .nav-header {
+      max-width: 1200px;
+      margin: 24px auto;
+      padding: 0 12px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .nav-header h1 {
+      margin: 0;
+    }
+    .nav-header a {
+      text-decoration: none;
+      color: inherit;
+      opacity: 1.0;
+      transition: opacity 0.3s;
+    }
+    .nav-header a:hover {
+      opacity: 1;
+    }
+    .photo-gallery {
+      display: grid;
+      gap: 12px;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      grid-auto-rows: 250px;
+      grid-auto-flow: dense;
+      max-width: 1200px;
+      margin: 24px auto;
+      padding: 12px;
+    }
+    .photo-gallery a {
+      overflow: hidden;
+      border-radius: 4px;
+      position: relative;
+    }
+    .photo-gallery a[data-aspect="wide"] {
+      grid-column: span 2;
+    }
+    .photo-gallery a[data-aspect="tall"] {
+      grid-column: span 1;
+      grid-row: span 2;
+    }
+    .photo-gallery a[data-aspect="ultrawide"] {
+      grid-column: span 3;
+    }
+    .photo-gallery a[data-aspect="ultratall"] {
+      grid-column: span 1;
+      grid-row: span 3;
+    }
+    .photo-gallery img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      cursor: pointer;
+    }
+    .lg-caption {
+      background: rgba(0, 0, 0, 0.8);
+      color: white;
+      padding: 12px;
+      font-size: 14px;
+      line-height: 1.4;
+    }
+    .lg-caption .trip-name {
+      font-weight: bold;
+      font-size: 16px;
+      margin-bottom: 6px;
+    }
+    .lg-caption .exif-data {
+      font-size: 12px;
+      opacity: 0.9;
+    }
+    footer {
+      text-align: center;
+      margin-top: 48px;
+      padding: 24px 12px;
+      color: #666;
+      width: 100%;
+      box-sizing: border-box;
+      position: relative;
+      background: white;
+    }
+    footer small {
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+    <div class="nav-header">
+    <h1>Photography</h1>
+    <a href="/">← Back to Home</a>
+  </div>
+  {{ content }}
+
+      <!-- Photo gallery -->
+  <div class="photo-gallery" id="lightgallery">
+    {% for img in site.static_files %}
+      {% if img.path contains 'assets/img/photos' and img.extname == '.jpg' or img.extname == '.JPG' %}
+        {% assign parts = img.path | split: '/' %}
+        {% assign folder = parts[-2] %}
+        <a href="{{ img.path }}" class="gallery-item" data-trip="{{ folder }}" data-filename="{{ img.name }}" data-sub-html="#caption-{{ forloop.index }}">
+          <img src="{{ img.path }}"loading="lazy" />
+          <div class="caption" id="caption-{{ forloop.index }}">
+            <em>{{ folder | replace: '-', ' ' }}</em>
+            <p class="exif-data"></p>
+          </div>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <footer>
+    <small>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</small>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.7.2/lightgallery.umd.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/exif-js@2.3.0/exif.min.js"></script>
+  <script>
+    document.querySelectorAll('.gallery-item img').forEach(img => {
+      img.addEventListener('load', function() {
+        const imgElement = this;
+        const link = this.parentElement;
+        const captionP = link.querySelector('.exif-data');
+
+        EXIF.getData(imgElement, function() {
+          const aperture = EXIF.getTag(imgElement, 'FNumber');
+          const focal = EXIF.getTag(imgElement, 'FocalLength');
+
+          let exifData = '';
+          if (aperture) {
+            const apertureValue = aperture.numerator / aperture.denominator;
+            exifData += `<i>f</i>/${apertureValue.toFixed(1)}`;
+          }
+          if (focal) {
+            const focalValue = focal.numerator / focal.denominator;
+            if (exifData) exifData += ' • ';
+            exifData += `${Math.round(focalValue)}mm`;
+          }
+
+          captionP.innerHTML = exifData;
+        });
+
+      });
+    });
+
+    lightGallery(document.getElementById('lightgallery'));
+  </script>
+</body>
+</html>
